@@ -82,7 +82,7 @@ Web-based CRUD application to manage student data efficiently with Spring Boot, 
 
 <p align="left">
 
-<a href="https://portfolio-5sgn.onrender.com/" target="blank">
+<a href="#" target="blank">
 Portfolio
 </a>
 
